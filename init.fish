@@ -1,2 +1,2 @@
-source ./dots.fish
+source $path/$package.fish
 
